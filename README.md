@@ -14,3 +14,7 @@ Capturas de ejercicios
 Para agregar tags
 
 ![alt text](ejercicioTag01.png "Ejercicio de tag")
+
+subiendo tags a github
+
+![alt text](ejercicioTag02.png "Ejercicio 2 de tag")
